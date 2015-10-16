@@ -1,6 +1,6 @@
-CS231n: Convolutional Neural Networks for Visual Recognition
-=================================
+CS231n
+======
+Convolutional Neural Networks for Visual Recognition
+----------------------------------------------------
 
-Class URL
----------
-http://http://cs231n.stanford.edu/
+Class URL: http://cs231n.stanford.edu/
