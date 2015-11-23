@@ -14,6 +14,10 @@ Getting Started for Myself
 * install docker, docker-compose
 * ./bootstrap.sh # and then profit! :)
 
+Running Python Scripts in Python2
+---------------------------------
+* docker-compose run web /opt/conda/envs/python2/bin/python assignment1/knn.py
+
 Convolutional Neural Networks for Visual Recognition
 ----------------------------------------------------
 Class URL: http://cs231n.stanford.edu/
