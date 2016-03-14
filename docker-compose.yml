@@ -3,8 +3,7 @@ web:
   volumes:
     - .:/home/jovyan/work
   command:
-    - /bin/bash
-    - start.sh
+    - ./start.sh
   ports:
     - 8888
 
