@@ -1,3 +1,6 @@
 [submodule "assignment1"]
 	path = assignment1
 	url = git@bitbucket.org:zhao-li/dloc-assignment1.git
+[submodule "assignment2"]
+	path = assignment2
+	url = git@bitbucket.org:zhao-li/dloc-assignment2.git
