@@ -41,6 +41,10 @@ cd assignment1/cs231n/datasets/
 cd ../../..
 echo "assignment1 dataset downloaded"
 
+echo "copying dataset for assignment2"
+cp -r assignment1/cs231n/datasets/cifar-10-batches-py/ assignment2/cs231n/datasets/cifar-10-batches-py/ 
+echo "assignment2 dataset copied"
+
 echo "bringing up notebook"
 docker-compose up
 abracadabra
